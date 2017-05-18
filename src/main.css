@@ -1,0 +1,84 @@
+* {
+margin: 0;
+padding:0;
+}
+
+body {
+  font-family: Roboto;
+  color:#595959;
+  background-color: #353535;
+}
+
+h1 {
+  font-size: 60px;
+  color:#ffffff;
+  text-align: center;
+  text-shadow: 2px 2px #373737;
+  padding-top:100px;
+  margin-bottom: 30px;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-size: 40px;
+  letter-spacing: 1px;
+  color: #eeffff;
+  text-align: center;
+}
+
+h3 {
+  font-size: 26px;
+  margin: 20PX;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.contact a{
+  text-decoration: none;
+  color:#2c2c2c;
+}
+
+ul{
+  margin:0 0 20px 30px;
+  font-size: 20px;
+  border:0px 1px 1px 0px solid #888888;
+}
+
+li {
+  margin-left: 20px;
+}
+
+.container {
+    width:1200px;
+    margin: 0 auto 0 auto;
+    background-color: #ffffff;
+}
+
+.header {
+    background-color: #454545;
+    height:400px;
+    background: url("http://www.dtelepathy.com/blog/wp-content/uploads/2015/06/Technique-for-Faster-Web-Development.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+
+.tagline {
+  border-bottom: 2px solid darkgrey;
+
+}
+
+.skills {
+
+}
+
+.contact {
+  background-color: #696969;
+  text-align: center;
+  color: #efefef;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
